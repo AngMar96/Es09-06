@@ -1,3 +1,4 @@
+![Screenshot 2023-06-09 211517](https://github.com/AngMar96/Es09-06/assets/134508031/4cba5c0d-918e-4111-833f-2540034ef2ab)
 InetSim e Wireshark
 
 In questo report si potrà vedere l'utilizzo del tool "InetSim e Wireshark"
