@@ -15,7 +15,7 @@ INetSim supporta la simulazione dei seguenti servizi: HTTP, SMTP, POP3, DNS, FTP
 ha la capacità di catturare tutti i pacchetti transitanti da un adattatore Ethernet o Wi-Fi di un computer
 e decodificarli in un “linguaggio” idoneo all'analisi di un sistemista o amministratore di rete.
 
-Passaggi:<br>
+<h1>Passaggi:</h1><br>
  1.Aprire la MV "kali"<br>
   2.Aprire il terminale e inviare il comando "InetSim"<br>
    3.Una volta lanciato il comando si aprirà il tool dove si potrà vedere la simulazione di servizi internet.<br>
