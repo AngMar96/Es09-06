@@ -15,10 +15,10 @@ ha la capacità di catturare tutti i pacchetti transitanti da un adattatore Ethe
 e decodificarli in un “linguaggio” idoneo all'analisi di un sistemista o amministratore di rete.
 
 Passaggi:
- 1.Aprire la MV "kali"
-  2.Aprire il terminale e inviare il comando "InetSim"
-   3.Una volta lanciato il comando si aprirà il tool dove si potrà vedere la simulazione di servizi internet.
-    4.Aprire un secondo terminale e con il comando "Ping (ip server InetSim) vedere se le il client e il server comunichino.
+ 1.Aprire la MV "kali"<br>
+  2.Aprire il terminale e inviare il comando "InetSim"<br>
+   3.Una volta lanciato il comando si aprirà il tool dove si potrà vedere la simulazione di servizi internet.<br>
+    4.Aprire un secondo terminale e con il comando "Ping (ip server InetSim) vedere se le il client e il server comunichino.<br>
      5.Una volta che abbiamo constatato che le due macchine si vedino , apriremo Wireshark cosi da poter intercettare i paccheti .
      
 
